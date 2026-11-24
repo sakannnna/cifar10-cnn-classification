@@ -1,0 +1,32 @@
+{
+  "model": "BaselineCNN",
+  "parameters": 288746,
+  "epochs": 25,
+  "batch_size": 128,
+  "seed": 42,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "augmentation": false,
+  "normalization": "x / 127.5 - 1",
+  "train_count": 45000,
+  "val_count": 5000,
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "python": "3.12.10",
+  "torch": "2.6.0+cu124",
+  "torchvision": "0.21.0+cu124",
+  "cuda_runtime": "12.4",
+  "cudnn": 90100
+}

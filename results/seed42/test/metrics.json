@@ -1,0 +1,23 @@
+{
+  "dataset": "CIFAR-10 official test",
+  "checkpoint": "runs/augment_cosine_seed42/best.pt",
+  "checkpoint_sha256": "7414d0a0e90053412be89b41e2a57a949ecd55738af9b1d0f6a9df113936e604",
+  "epoch": 21,
+  "validation_accuracy": 0.875,
+  "total": 10000,
+  "correct": 8642,
+  "errors": 1358,
+  "accuracy": 0.8642,
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ]
+}

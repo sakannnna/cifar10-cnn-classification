@@ -1,0 +1,7 @@
+group,index,true,predicted,direction_count,confidence,image
+animal,2046,cat,dog,120,0.6848080158233643,examples/2046.png
+animal,3452,dog,cat,86,0.6268644332885742,examples/3452.png
+vehicle,6685,automobile,truck,35,0.6737787127494812,examples/6685.png
+vehicle,5192,truck,automobile,40,0.7844216227531433,examples/5192.png
+animal_vehicle,6653,airplane,bird,33,0.6566532254219055,examples/6653.png
+animal_vehicle,5238,bird,airplane,29,0.7403407096862793,examples/5238.png
